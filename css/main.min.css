@@ -576,7 +576,6 @@ ul {
 }
 .team__image-img {
   display: block;
-  max-width: 1600px;
   height: auto;
 }
 .team__name {
