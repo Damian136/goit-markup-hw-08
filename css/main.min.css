@@ -575,8 +575,9 @@ ul {
   height: auto;
 }
 .team__image-img {
+  width: 270px;
+  height: 428px;
   display: block;
-  height: auto;
 }
 .team__name {
   font-style: normal;
